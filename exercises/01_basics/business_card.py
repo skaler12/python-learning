@@ -1,0 +1,8 @@
+print("================================")
+print("        PYTHON LEARNING")
+print("================================")
+print("Imię: Grzegorz")
+print("Cel: Python Developer / Data Engineer")
+print("Narzędzia: VS Code, Git, GitHub, uv")
+print("Aktualny etap: podstawy Pythona")
+print("================================")
