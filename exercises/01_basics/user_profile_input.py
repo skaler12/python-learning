@@ -1,0 +1,11 @@
+first_name = input("Enter your first name: ")
+career_goal = input("Enter your career goal: ")
+weekly_hours = input("How many hours per week can you learn? ")
+
+print("================================")
+print("        USER PROFILE")
+print("================================")
+print("Name: " + first_name)
+print("Goal: " + career_goal)
+print("Weekly learning hours: " + weekly_hours)
+print("================================")
