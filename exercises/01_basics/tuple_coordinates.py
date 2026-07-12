@@ -1,3 +1,4 @@
+# ćwiczenie z krotkami - tuples
 warehouse_location = (50.72, 23.25)
 delivery_points = [(50.70, 23.20), (50.75, 23.30), (50.80, 23.35)]
 
